@@ -1,0 +1,1 @@
+t mới tạo model th nên có gì ai làm query database thì vô code trong model nha , mấy cái chức năng search , find này nọ cần username thì t có để cái username giả trong đó ấy , có gì gán r test trong đó . Mốt làm controller r kế thừa thông tin sau , giờ cứ làm query trước thôi.
